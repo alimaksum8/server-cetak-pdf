@@ -1,0 +1,13 @@
+{
+  "name": "portal-pdf-server",
+  "version": "1.0.0",
+  "description": "Server untuk membuat PDF",
+  "main": "api/cetak.js",
+  "scripts": {
+    "start": "node api/cetak.js"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^123.0.1",
+    "puppeteer-core": "^22.10.0"
+  }
+}

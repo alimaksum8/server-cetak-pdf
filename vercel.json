@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/cetak.js": {
+      "maxDuration": 60
+    }
+  }
+}
